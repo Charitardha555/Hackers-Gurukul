@@ -7,7 +7,6 @@
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Folder Structure](#folder-structure)
 
 
 ## Overview
@@ -71,19 +70,4 @@ https://github.com/Charitardha555/Hackers-Gurukul/tree/02ab4a128b20d70c5e949d151
 - Admin users can manage all users, posts, and comments  
 - Use the search bar to quickly find specific content  
 
-## Folder Structure
-blog-application/
-│
-├── assets/                  # CSS, JavaScript, images, fonts
-├── config.php               # Database config and global settings
-├── index.php                # Home page - list of blog posts
-├── login.php                # Login page
-├── register.php             # User registration page
-├── logout.php               # Logout script
-├── post/                    # Create, edit, delete posts scripts
-├── comments/                # Manage comments scripts
-├── admin/                   # Admin panel dashboard and management
-├── database/                # Database schema and seed files
-├── README.md                # Project README file
-└── .gitignore               # Git ignore file
 
